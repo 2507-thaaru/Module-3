@@ -23,8 +23,6 @@ To write a Python program that matches a string containing an `'a'` followed by 
 ### PROGRAM
 
 ```
-#Reg.NO:212222040120
-#Name:PRASANNA R
 import re
 str=input()
 x=re.match("^a(b*)$",str)
