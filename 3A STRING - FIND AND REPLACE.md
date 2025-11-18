@@ -23,8 +23,7 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
-#Reg.NO:212222040120
-#Name:PRASANNA R
+
 def convert(a):
     new=""
     for i in range(0,len(a)):
